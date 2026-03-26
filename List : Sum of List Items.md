@@ -16,6 +16,8 @@ total=sum(list)
 print(total)
 ```
 ## Output
+![alt text](<Screenshot 2026-03-26 165339.png>)
+
 
 ## Result
 Thus,the program has been executed successfully.
