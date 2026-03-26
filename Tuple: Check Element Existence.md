@@ -18,6 +18,7 @@ print("8" in main_tuple)
 ```
 
 ## Output
+![alt text](<Screenshot 2026-03-26 165411.png>)  
 
 ## Result
 Thus,the program has been execueted successfully.
