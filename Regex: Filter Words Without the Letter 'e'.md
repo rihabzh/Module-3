@@ -24,6 +24,7 @@ for i in items:
 print(new_list)
 ```
 ## Output
+![alt text](<Screenshot 2026-03-26 165345.png>)
 
 ## Result
 Thus,the program has been executed successfully.
